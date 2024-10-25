@@ -14,3 +14,8 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('vader_lexicon')
 ```
+Also if you want to download requiremets using pip, you can do this 
+
+```bash
+pip install -r requirements.txt
+```
