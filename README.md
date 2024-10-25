@@ -19,3 +19,6 @@ Also if you want to download requiremets using pip, you can do this
 ```bash
 pip install -r requirements.txt
 ```
+## Other Helpful Resources
+
+(Check this article out by Abdulraqib Omotosho on Medium)[https://medium.com/@abdulraqibshakir03/whatsapp-chats-analysis-with-python-fe7a220f0796]
