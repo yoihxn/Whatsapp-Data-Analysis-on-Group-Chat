@@ -7,7 +7,7 @@
 **Messages Processed:** 256,665
 
 
-Coundn't add this in the dependencies so don't forget to download
+Coundn't add this in the dependencies so don't forget to download. Helpful for Sentiment Analysis and to disregard commonly used words for word frequency analysis
 
 ```python
 nltk.download('punkt')
