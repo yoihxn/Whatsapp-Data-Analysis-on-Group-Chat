@@ -6,6 +6,7 @@
 **Duration :** September 2022 - October 2024 (roughly 2 years) <br>
 **Messages Processed:** 256,665
 
+_P.S. : I have also taken Meta AI into consideration just for fun :)_
 
 Coundn't add this in the dependencies so don't forget to download. Helpful for Sentiment Analysis and to disregard commonly used words for word frequency analysis
 
