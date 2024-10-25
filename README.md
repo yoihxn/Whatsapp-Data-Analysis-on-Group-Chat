@@ -1,5 +1,7 @@
 # Whatsapp-Data-Analysis-on-Group-Chat
 
+![Static Badge](https://img.shields.io/badge/Platform-Google_Colab-lightgreen)
+
 ## Details about this Whatsapp Group between Friends
 
 **Members taken into consideration :** 12 (_removed some people not in the group chat anymore_)<br>
@@ -24,5 +26,4 @@ pip install -r requirements.txt
 
 [Check this article out by Abdulraqib Omotosho on Medium](https://medium.com/@abdulraqibshakir03/whatsapp-chats-analysis-with-python-fe7a220f0796)
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
 
