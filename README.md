@@ -1,6 +1,8 @@
 # Whatsapp-Data-Analysis-on-Group-Chat
 
 ![Static Badge](https://img.shields.io/badge/Platform-Google_Colab-lightgreen)
+![Static Badge](https://img.shields.io/badge/Language-Python-lightpink)
+
 
 ## Details about this Whatsapp Group between Friends
 
