@@ -1,0 +1,11 @@
+pandas
+matplotlib
+seaborn
+plotly
+kaleido
+tabulate
+collections
+datetime
+numpy
+wordcloud
+nltk
