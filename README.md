@@ -1,6 +1,6 @@
 # Whatsapp-Data-Analysis-on-Group-Chat
 
-<p>Details about this Whatsapp Group between Friends</p>
+<h2>Details about this Whatsapp Group between Friends</h2>
 
 <p> **Members taken into consideration** </p>
 
