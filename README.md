@@ -2,6 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Platform-Google_Colab-lightgreen)
 ![Static Badge](https://img.shields.io/badge/Language-Python-lightpink)
+![Static Badge](https://img.shields.io/badge/Last_Updated-25_October_'24-lightblue)
 
 
 ## Details about this Whatsapp Group between Friends
