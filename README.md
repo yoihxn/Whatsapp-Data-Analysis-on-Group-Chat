@@ -1,6 +1,6 @@
 # Whatsapp-Data-Analysis-on-Group-Chat
 
-##Details about this Whatsapp Group between Friends
+## Details about this Whatsapp Group between Friends
 
 **Members taken into consideration :** 12 (_removed some people not in the group chat anymore_)
 **Duration :** September 2022 - October 2024 (roughly 2 years)
