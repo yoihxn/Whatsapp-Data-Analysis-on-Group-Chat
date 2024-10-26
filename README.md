@@ -4,6 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/Language-Python-lightpink)
 ![Static Badge](https://img.shields.io/badge/Last_Updated-26_October_'24-lightblue)
 ![GitHub Created At](https://img.shields.io/github/created-at/yoihxn/Whatsapp-Data-Analysis-on-Group-Chat%20)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yoihxn/Whatsapp-Data-Analysis-on-Group-Chat)
 
 
 ## Details about this Whatsapp Group between Friends
