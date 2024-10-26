@@ -3,9 +3,8 @@
 ![Static Badge](https://img.shields.io/badge/Platform-Google_Colab,Visual_Studio_Code-lightgreen)
 ![Static Badge](https://img.shields.io/badge/Language-Python-lightpink)
 ![Static Badge](https://img.shields.io/badge/Last_Updated-26_October_'24-lightblue)
-[https://img.shields.io/github/created-at/yoihxn/Whatsapp-Data-Analysis-on-Group-Chat%20
-](https://img.shields.io/github/created-at/yoihxn/Whatsapp-Data-Analysis-on-Group-Chat%20
-)
+![GitHub Created At](https://img.shields.io/github/created-at/yoihxn/Whatsapp-Data-Analysis-on-Group-Chat%20)
+
 
 ## Details about this Whatsapp Group between Friends
 
