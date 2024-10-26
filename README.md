@@ -29,4 +29,8 @@ pip install -r requirements.txt
 
 [Check this article out by Abdulraqib Omotosho on Medium](https://medium.com/@abdulraqibshakir03/whatsapp-chats-analysis-with-python-fe7a220f0796)
 
+## Miscellaneous 
+
+[Badges from Shields.io](https://github.com/badges/shields)
+
 
