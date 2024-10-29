@@ -7,7 +7,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yoihxn/Whatsapp-Data-Analysis-on-Group-Chat)
 
 
-## Details about this Whatsapp Group between Friends
+## Details about this Whatsapp Group 
 
 **Members taken into consideration :** 12 (_removed some people not in the group chat anymore_)<br>
 **Duration :** September 2022 - October 2024 (roughly 2 years) <br>
